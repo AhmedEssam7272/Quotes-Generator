@@ -186,7 +186,6 @@ const quote = [
 ];
 
 let previousIndex = "";
-
 function newQuote() {
     let index = "";
     do {
